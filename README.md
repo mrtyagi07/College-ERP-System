@@ -1,1 +1,1 @@
-# College-ERP-System
+# college-system
